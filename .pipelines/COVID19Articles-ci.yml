@@ -24,7 +24,7 @@ variables:
 
 pool:
 vmImage: ubuntu-latest
-pool: odluser481826-project-agent-pool 
+pool: odluser481826-project-agent-pool
   
 stages:
 - stage: 'Model_CI'
