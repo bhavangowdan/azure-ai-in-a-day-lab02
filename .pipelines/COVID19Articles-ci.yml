@@ -23,6 +23,7 @@ variables:
 
 
 pool: odluser481826-project-agent-pool
+pool:
 vmImage: ubuntu-latest
 
   
